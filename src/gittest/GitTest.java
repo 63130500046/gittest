@@ -17,8 +17,8 @@ public class GitTest {
         a.rabbit();
     }
     public static void rabbit(){
-        System.out.println("(\\_/)");
-        System.out.println("(*.*)");
-        System.out.println("/>o<\\");
+        System.out.println("(\\_/)    (\\_/)");
+        System.out.println("(*.*)    (-^-)");
+        System.out.println("/>o<\\    /> <\\");
     }
 }
