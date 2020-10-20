@@ -13,10 +13,12 @@ public class GitTest {
 
     public static void main(String[] args) {
         System.out.println("Hello Portable Git");
+        GitTest a = new GitTest();
+        a.rabbit();
     }
     public static void rabbit(){
         System.out.println("(\\_/)");
         System.out.println("(*.*)");
-        System.out.println("/>o<");
+        System.out.println("/>o<\\");
     }
 }
